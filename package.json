@@ -1,0 +1,6 @@
+{
+  "name": "com.unitools.scriptdrophandler",
+  "version": "1.0.0",
+  "displayName": "Script Drop handler",
+  "description": "Drag and Drop Scripts directly in hierarchy"
+}
